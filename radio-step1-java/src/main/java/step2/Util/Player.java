@@ -1,4 +1,4 @@
-package step2;
+package step2.Util;
 
 public interface Player {
     //

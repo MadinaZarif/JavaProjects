@@ -9,10 +9,7 @@ package timestable;
 public class TimeTables {
     public static void main(String[] args) {
         System.out.println("Таблица умножения");
-        System.out.println("Ученики и ученицы!\n" +
-                "Чтоб было проще вам считать,\n" +
-                "Мы Пифагорову таблицу\n" +
-                "В стихах решили написать.\n");
+
 
         for (int i = 2; i <= 10; i++){
             for (int j = 2; j <= 10; j++){
